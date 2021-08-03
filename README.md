@@ -14,7 +14,7 @@ This software is a Matlab implementation of proposed method. The original versio
 
 This program is available for download for non-commercial use, licensed under the GNU General Public License, which is allows its use for research purposes or other free software projects but does not allow its incorporation into any type of commerical software.
 
-Download Feature Selection Program
+[[Download Feature Selection Program]](http://air.cau.ac.kr/softwares/dufs/programs.zip)
 
 Sample Input and Output
 
