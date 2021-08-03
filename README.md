@@ -1,5 +1,21 @@
 # Pairwise Dependence-based Unsupervised Feature Selection (DUFS) [[Paper]](https://www.sciencedirect.com/science/article/pii/S0031320320304660)
 
+```bash
+@article{LIM2021107663,
+title = {Pairwise dependence-based unsupervised feature selection},
+journal = {Pattern Recognition},
+volume = {111},
+pages = {107663},
+year = {2021},
+issn = {0031-3203},
+doi = {https://doi.org/10.1016/j.patcog.2020.107663},
+url = {https://www.sciencedirect.com/science/article/pii/S0031320320304660},
+author = {Hyunki Lim and Dae-Won Kim},
+keywords = {Unsupervised feature selection, Feature dependency, Feature redundancy, Joint entropy,  regularization},
+abstract = {Many research topics present very high dimensional data. Because of the heavy execution times and large memory requirements, many machine learning methods have difficulty in processing these data. In this paper, we propose a new unsupervised feature selection method considering the pairwise dependence of features (feature dependency-based unsupervised feature selection, or DUFS). To avoid selecting redundant features, the proposed method calculates the dependence among features and applies this information to a regression-based unsupervised feature selection process. We can select small feature set with the dependence among features by eliminating redundant features. To consider the dependence among features, we used mutual information widely used in supervised feature selection area. To our best knowledge, it is the first study to consider the pairwise dependence of features in the unsupervised feature selection method. Experimental results for six data sets demonstrate that the proposed method outperforms existing state-of-the-art unsupervised feature selection methods in most cases.}
+}
+```
+
 ## Abstract
 
 This program (DUFS) is designed to perform the feature selection for unsupervised condition. This method assumes pattern-feature matrix typed data set.
