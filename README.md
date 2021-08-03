@@ -1,6 +1,3 @@
-# cau-air-softwares
-CAU AIR Lab Public Codes
-
 # Pairwise Dependence-based Unsupervised Feature Selection (DUFS) [[Paper]](https://www.sciencedirect.com/science/article/pii/S0031320320304660)
 
 ## Abstract
