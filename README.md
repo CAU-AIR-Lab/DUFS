@@ -7,7 +7,7 @@ This program (DUFS) is designed to perform the feature selection for unsupervise
 This software is a Matlab implementation of proposed method. The original version of this program was written by Hyunki Lim. We also provide codes for 10 conventional unsupervised feature selection methods; MaxVar, LS, MCFS, UDFS, NDFS, SOCFS, EUFS, RSR, DISR, and IUFS. You can find detailed information in our manuscript.
 
 ### [Paper]
-Hyunki Lim and Dae-Won Kim, [Pairwise Dependence-based Unsupervised Feature Selection,](https://www.sciencedirect.com/science/article/pii/S0031320320304660)
+Hyunki Lim and Dae-Won Kim, ["Pairwise Dependence-based Unsupervised Feature Selection,"](https://www.sciencedirect.com/science/article/pii/S0031320320304660)
 Pattern Recognition, 2021
 
 ## License
